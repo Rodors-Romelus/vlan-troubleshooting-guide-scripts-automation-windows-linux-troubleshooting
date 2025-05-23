@@ -1,0 +1,2 @@
+# vlan-troubleshooting-guide-scripts-automation-windows-linux-troubleshooting
+Checklist avancée pour le dépannage des VLANs avec des commandes Cisco CLI. Ce dépôt propose une documentation claire et structurée à destination des techniciens réseaux et administrateurs systèmes, des recommandations de sécurité, et une méthodologie pas-à-pas pour résoudre efficacement les problèmes de connectivité liés aux VLANs
